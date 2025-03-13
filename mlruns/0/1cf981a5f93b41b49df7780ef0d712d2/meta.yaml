@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/1cf981a5f93b41b49df7780ef0d712d2/artifacts
+end_time: 1741826915588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cf981a5f93b41b49df7780ef0d712d2
+run_name: clumsy-skunk-399
+run_uuid: 1cf981a5f93b41b49df7780ef0d712d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741826913708
+status: 3
+tags: []
+user_id: akshayy

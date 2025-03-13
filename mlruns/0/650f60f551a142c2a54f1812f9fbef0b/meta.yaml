@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/650f60f551a142c2a54f1812f9fbef0b/artifacts
+end_time: 1741826919219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 650f60f551a142c2a54f1812f9fbef0b
+run_name: colorful-mule-489
+run_uuid: 650f60f551a142c2a54f1812f9fbef0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741826917531
+status: 3
+tags: []
+user_id: akshayy

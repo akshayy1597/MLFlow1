@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/fecbfb4efb3c49d18274abd4422ba2d7/artifacts
+end_time: 1741826931045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fecbfb4efb3c49d18274abd4422ba2d7
+run_name: brawny-ox-308
+run_uuid: fecbfb4efb3c49d18274abd4422ba2d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741826929196
+status: 3
+tags: []
+user_id: akshayy

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/9019c5d8adc1428aafc6a6d9b9682943/artifacts
+end_time: 1741826962835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9019c5d8adc1428aafc6a6d9b9682943
+run_name: mercurial-jay-386
+run_uuid: 9019c5d8adc1428aafc6a6d9b9682943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741826960574
+status: 3
+tags: []
+user_id: akshayy

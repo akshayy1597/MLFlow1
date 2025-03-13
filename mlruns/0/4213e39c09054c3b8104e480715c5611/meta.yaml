@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/4213e39c09054c3b8104e480715c5611/artifacts
+end_time: 1741826942780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4213e39c09054c3b8104e480715c5611
+run_name: treasured-mink-148
+run_uuid: 4213e39c09054c3b8104e480715c5611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741826940769
+status: 3
+tags: []
+user_id: akshayy

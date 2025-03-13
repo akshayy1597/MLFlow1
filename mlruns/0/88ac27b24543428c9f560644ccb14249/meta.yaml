@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/88ac27b24543428c9f560644ccb14249/artifacts
+end_time: 1741826911834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88ac27b24543428c9f560644ccb14249
+run_name: agreeable-hare-471
+run_uuid: 88ac27b24543428c9f560644ccb14249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741826911515
+status: 4
+tags: []
+user_id: akshayy

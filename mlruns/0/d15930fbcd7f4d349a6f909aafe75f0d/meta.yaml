@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/d15930fbcd7f4d349a6f909aafe75f0d/artifacts
+end_time: 1741826975744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d15930fbcd7f4d349a6f909aafe75f0d
+run_name: welcoming-shrike-782
+run_uuid: d15930fbcd7f4d349a6f909aafe75f0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741826973586
+status: 3
+tags: []
+user_id: akshayy

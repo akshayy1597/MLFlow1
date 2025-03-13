@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/78ee610da3184acdade166e8188e2bd4/artifacts
+end_time: 1741826950789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78ee610da3184acdade166e8188e2bd4
+run_name: funny-turtle-113
+run_uuid: 78ee610da3184acdade166e8188e2bd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741826948768
+status: 3
+tags: []
+user_id: akshayy

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/8704cd6738cd4d2d8b5ee08aade8c2bd/artifacts
+end_time: 1741826958575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8704cd6738cd4d2d8b5ee08aade8c2bd
+run_name: delicate-carp-202
+run_uuid: 8704cd6738cd4d2d8b5ee08aade8c2bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741826956706
+status: 3
+tags: []
+user_id: akshayy

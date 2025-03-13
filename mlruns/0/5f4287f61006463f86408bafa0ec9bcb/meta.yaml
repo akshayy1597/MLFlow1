@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/5f4287f61006463f86408bafa0ec9bcb/artifacts
+end_time: 1741826927113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f4287f61006463f86408bafa0ec9bcb
+run_name: intrigued-kite-503
+run_uuid: 5f4287f61006463f86408bafa0ec9bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741826925235
+status: 3
+tags: []
+user_id: akshayy

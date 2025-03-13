@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/bb5b74766ed54b30be972da416cd6aed/artifacts
+end_time: 1741826934941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb5b74766ed54b30be972da416cd6aed
+run_name: puzzled-rat-893
+run_uuid: bb5b74766ed54b30be972da416cd6aed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741826933103
+status: 3
+tags: []
+user_id: akshayy

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/8ba8b52ff5d14310996a082f6bb614f0/artifacts
+end_time: 1741826984172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ba8b52ff5d14310996a082f6bb614f0
+run_name: fortunate-shark-568
+run_uuid: 8ba8b52ff5d14310996a082f6bb614f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741826981994
+status: 3
+tags: []
+user_id: akshayy

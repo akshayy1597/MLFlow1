@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/62b5b78e84fc4a9daeb40cfb3d6d230a/artifacts
+end_time: 1741826909376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62b5b78e84fc4a9daeb40cfb3d6d230a
+run_name: sincere-eel-334
+run_uuid: 62b5b78e84fc4a9daeb40cfb3d6d230a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741826907513
+status: 3
+tags: []
+user_id: akshayy
