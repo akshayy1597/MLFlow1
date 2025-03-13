@@ -16,10 +16,16 @@ code .
 5. pip3 list: to check what all packages are available
 
 6. Steps to push your code to github repo:
+   
    a. Create a repo in github
+   
    b. git init
+   
    c. git add .
+   
    d. git commit -m "first commit"
+   
    e. git remote add origin https://github.com/akshayy1597/MLFlow1.git (copy the url from github)
+   
    f. git push -u origin main
    
