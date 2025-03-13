@@ -14,7 +14,7 @@ from sklearn.model_selection import  train_test_split
 import argparse
 
 def get_data():
-    URL="/Users/akshayy/Documents/Ineuron/Datasets/winequality-red.csv"
+    URL="https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv"
     
     #reading the data as df
     try:

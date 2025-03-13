@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akshayy/mlflow1/mlruns/0/64f0283c121c447b96c27cae8efcbff1/artifacts
+end_time: 1741825017828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64f0283c121c447b96c27cae8efcbff1
+run_name: languid-steed-701
+run_uuid: 64f0283c121c447b96c27cae8efcbff1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741825016744
+status: 3
+tags: []
+user_id: akshayy
